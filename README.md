@@ -1,4 +1,4 @@
-#Libaray Management System
+#Libaray-Management-System
 Developed by Amarjeet Sharma
 -> tech
 * java
